@@ -1,0 +1,10 @@
+#403B31 --- header
+
+#D9CEC5 --- body
+
+#F2EADF --- main
+
+____________
+
+
+#B2BEBF --- background h2
