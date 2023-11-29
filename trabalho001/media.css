@@ -1,30 +1,16 @@
-@media screen and (max-width:600px){
-    main{
-        width: 400px;
-    }
-
-   article  section{
-        width: 300px;
-    }
-
+@media screen and (min-width:600px){
     header h1{
-        font-size: 1.5em;
+        
+        font-size: 3.0em;
     }
 
-    img{
-        min-width: 200px;
+    header p{
+        font-size: 1em;
     }
-    
 }
 
-@media screen and(min-width:1000px;) and (max-width:1200px) {
-    main{
-        width: 1000px;
-    }
-
-    header h1{
-        font-size:30em;
-    }
-    
-    
+@media screen and (max-width:600px){
+   header p{
+    font-size: 0.7em;
+   }
 }
